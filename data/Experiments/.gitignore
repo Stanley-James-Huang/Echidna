@@ -1,0 +1,5 @@
+# The logs in this folder are populated by the scripts - uploading them to github would bloat the repo size unnecessarily
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
